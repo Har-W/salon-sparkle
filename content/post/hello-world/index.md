@@ -1,8 +1,8 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: 孩子与狗
+description: 后启示录公路片
+slug: boy-and-his-dog
+date: 2025-07-15 00:00:00+0000
 image: cover.jpg
 categories:
     - Example Category
@@ -11,10 +11,14 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
-
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+故事背景
+该片的背景设定在“未来”的2024年，这一年发生了第4次世界大战（核战），这场大战仅持续了5天，但将人类文明几乎毁灭。主人公Vic侥幸撑过了战争（影片内并无解释来历）并与一条可以与他心灵感应进行对话的狗，展开了一人一狗在废土生存和找女人的旅途。
+总体评价（6.5-7/10）
+在观看《孩子与狗》时会发现叙事有割裂感，能够强烈地感受到故事被分为3个部分，这是美国50/60年代电影在叙事上的通病，也就是流水账及没有重点的叙事。如果电影能将更多的笔墨放在第三段或者选择更加有趣的叙事结构，电影的故事叙事会更加吸引人。
+男孩与狗作为贯穿影片的主要组合，以他们的视角通过一路上的打情骂俏去感受真实的末日环境以及超现实的地下社会，为电影增添了丰富的内容，让整部电影更加生动有趣。
+如果你对后启示录世界，核战后文明，末世公路片，黑色幽默感兴趣，那么这个片子比较适合你观看。
+最后作为整片看完的过来人，可以提前剧透：
+电影的结尾即便放在当今估计也很难再拍摄出来，因此也可以为这个结局期待一下。
+电影译名
+电影上映前有两个关键的要素，海报与名字。
+就该片，原英文名是没问题的，既是故事的核心也预示了主人公与狗那牢不可破的情感羁绊，译文反而差点意思，将boy翻译成“孩子”很是古怪，电影的故事背景是核战后的废土世界，且主角与狗的主要故事推动来源于找女人，明显已经超出了一个“孩子”能做出的事情和产生的想法。影片中也有展现主角幼稚且年轻的一面，因此在这里最合适的翻译应当是“男孩与狗”，“男孩”既能凸显出他仍需成长，也避免译名显得主角幼稚。
