@@ -5,7 +5,7 @@ slug: boy-and-his-dog
 date: 2025-07-15 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - 影评
 tags:
     - 科幻
     - 后启示录
