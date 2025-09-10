@@ -15,7 +15,7 @@ weight: 1     # You can add weight to some posts to override the default sorting
 成员介绍特别篇
 
 ## **鸡**  
-<span style="font-size:0.75em !important">老师，我们这里怎么有鸡……</span>  
+<span style="font-size:0.75em !important;color:gray !important">老师，我们这里怎么有鸡……</span>  
 鸡老师<span style="font-size:0.75em !important">(JLS)</span>又称老吉米，是电影沙龙的发起者，舍弃了部分游玩第一人称设计巨作的时间在深夜<span style="color:gray !important">[按住 W 开始]</span>思索这周要看什么影片，以下是鸡的自评：  
 
 <div style="text-align: center;">
@@ -27,7 +27,7 @@ weight: 1     # You can add weight to some posts to override the default sorting
 
 ***  
 ## **哈**
-<span style="font-size:0.75em !important">耄，你没死啊！</span>  
+<span style="font-size:0.75em !important; color:gray !important">耄，你没死啊！</span>  
 大家好，这里是 Har(っ•̀ω•́)っ✧  
 兴趣广泛但又没有特长的普通路人一个。  
 平时喜欢打游戏，单机、手游都来者不拒，能肝就肝，能咕就咕。  
