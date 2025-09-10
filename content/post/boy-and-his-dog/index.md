@@ -11,7 +11,7 @@ tags:
     - 后启示录
     - 成长
 
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight:       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 <div style="text-align: center;">
