@@ -3,7 +3,7 @@ title: 潜行者
 description: 艺术科幻
 date: 2025-08-31 00:00:00
 slug: stalker
-image: stalker_cover.jpg
+image: stalker_cover.png
 math: 
 license: 
 hidden: false
