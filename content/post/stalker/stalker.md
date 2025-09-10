@@ -4,11 +4,7 @@ description: 艺术科幻
 date: 2025-08-31 00:00:00
 slug: stalker
 image: stalker_cover.png
-math: 
-license: 
 hidden: false
-comments: true
-draft: false
 categories:
     - 影评
 tags:
@@ -18,9 +14,9 @@ tags:
 ---
 
 # **潜行者 Сталкер （1979 - 苏）**  
-***
 导演：安德烈·塔可夫斯基
 评价者：jls,xcm，harvi
+***
 ## **鸡评（难评/10）**
 《潜行者》是一部经典的斯拉夫文学代表，它阴郁，平静还常常自我怀疑。可以说这是我看这么多电影以来独一份的特色。  
 当然也正因为这种特色使得整部电影节奏过于平缓令人昏昏欲睡，本片也是唯二我在放映中快进播放完的电影。因为我并没有看懂所以我不会写出过多评价。  
