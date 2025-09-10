@@ -2,7 +2,7 @@
 title: 不是哥们，你谁啊？
 description: 成员介绍
 slug: member-ship
-date: 2025-09-10 00:00:00+0000
+date: 2025-09-01 00:00:00+0000
 image: membercover.jpg
 categories: 
     - 成员介绍
@@ -10,8 +10,8 @@ tags:
     - 介绍
 weight: 1      # You can add weight to some posts to override the default sorting (date descending)
 ---
-# **不是哥们，你谁啊？**  
 
+# **不是哥们，你谁啊？**  
 成员介绍特别篇
 
 ## **鸡**  
