@@ -1,7 +1,7 @@
 ---
 title: 狩猎
 description: 悬疑惊悚
-date: 2025-08-31 00:00:00
+date: 2025-07-20 00:00:00
 slug: the-hunt
 image: the-hunt_cover.jpg
 hidden: false
@@ -10,7 +10,6 @@ categories:
 tags:
     - 悬疑
     - 惊悚
-    - 丹麦
     - 剧情
 ---
 
