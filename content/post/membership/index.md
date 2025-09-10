@@ -19,7 +19,7 @@ weight: 1     # You can add weight to some posts to override the default sorting
 鸡老师<span style="font-size:0.75em !important">(JLS)</span>又称老吉米，是电影沙龙的发起者，舍弃了部分游玩第一人称射击巨作的时间在深夜<span style="color:gray !important">[按住 W 开始]</span>思索这周要看什么影片，以下是鸡的自评：  
 
 <div style="text-align: center;">
-  <img src="JLS1.jpg" alt="JLS1" style="max-width: 70%;">
+  <img src="JLS1.jpg" alt="JLS1" style="max-width: 100%;">
 </div>
 <div style="text-align: center;">
   <img src="JLS2.jpg" alt="JLS2" style="max-width: 70%;">
