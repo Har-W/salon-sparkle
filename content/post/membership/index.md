@@ -8,7 +8,7 @@ categories:
     - 成员介绍
 tags:
     - 介绍
-weight:      # You can add weight to some posts to override the default sorting (date descending)
+weight: 1     # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 # **不是哥们，你谁啊？**  
@@ -19,10 +19,10 @@ weight:      # You can add weight to some posts to override the default sorting 
 鸡老师<span style="font-size:0.75em !important">(JLS)</span>又称老吉米，是电影沙龙的发起者，舍弃了部分游玩第一人称设计巨作的时间在深夜<span style="color:gray !important">[按住 W 开始]</span>思索这周要看什么影片，以下是鸡的自评：  
 
 <div style="text-align: center;">
-  <img src="JLS1.png" alt="JLS1" style="max-width: 70%;">
+  <img src="JLS1.jpg" alt="JLS1" style="max-width: 70%;">
 </div>
 <div style="text-align: center;">
-  <img src="JLS2.png" alt="JLS2" style="max-width: 70%;">
+  <img src="JLS2.jpg" alt="JLS2" style="max-width: 70%;">
 </div>  
 
 ***  
@@ -36,7 +36,7 @@ weight:      # You can add weight to some posts to override the default sorting 
 
 以上，打个招呼，希望大家多多关照 (｡･ω･｡)ﾉ♡  
 <div style="text-align: center;">
-  <img src="Har1.png" alt="JLS2" style="max-width: 70%;">
+  <img src="Har1.jpg" alt="Har1" style="max-width: 70%;">
 </div>  
 
 ***
