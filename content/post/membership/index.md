@@ -8,7 +8,7 @@ categories:
     - 成员介绍
 tags:
     - 介绍
-weight: 1      # You can add weight to some posts to override the default sorting (date descending)
+weight:      # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 # **不是哥们，你谁啊？**  
