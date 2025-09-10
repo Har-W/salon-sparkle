@@ -8,7 +8,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: true
+draft: false
 categories:
     - 影评
 tags:
