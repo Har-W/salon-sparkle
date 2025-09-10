@@ -15,7 +15,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ---
 
 <div style="text-align: center;">
-  <img src="BAD.png" alt="Boy&Dog_1" style="max-width: 70%;">
+  <img src="BAD1.png" alt="Boy&Dog_1" style="max-width: 70%;">
   <p style="font-size: 0.9em; color: gray;">https://leonardmaltin.com/harlan-ellison-and-the-necessary-rage-of-a-boy-and-his-dog/</p>
 </div>
 
