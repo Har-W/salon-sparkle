@@ -1,3 +1,35 @@
 /*
     You can add your own custom styles here.
 */
+
+// Make the whole card clickable and float when hover on it
+
+.article-list {
+    overflow: visible;
+    padding: 8px 0;
+
+    article {
+        transition: transform 0.3s ease, box-shadow 0.3s ease, z-index 0.3s ease;
+        cursor: pointer;
+        position: relative;
+        z-index: 1;
+
+        .article-title a {
+            &::before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                z-index: 1;
+            }
+        }
+
+        &:hover {
+            transform: translate(-6px);
+            box-shadow: var(--shadow-l3);
+            z-index: 10;
+        }
+    }
+}

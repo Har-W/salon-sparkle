@@ -15,3 +15,12 @@ url = "https://github.com/Har-W"
 [social.params]
 icon = "brand-github"
 
+[[social]]
+identifier = "rss"
+name = "RSS"
+url = "/index.xml"
+pre = "RSS"
+
+[social.params]
+newtab = true
+icon = "rss"
