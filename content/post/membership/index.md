@@ -53,4 +53,12 @@ weight: 1     # You can add weight to some posts to override the default sorting
 
 ***
 
+## **Stont**
+<span style="font-size:0.75em !important; color:gray !important">这个人没有中文昵称...</span>  
+这里是Stont[斯通特]，观影人一个，影评话不多，文笔算出色~  
+被JLS召唤而来的网络游民，比较享受写作的过程并从中提炼自己的观点（停停写写又一篇呐）  
+爱好不算广泛，无聊的时候喜欢在b站看一些低脂影视cut视频，战争雷霆糕手，少前玩家，VV表情包爱好者，阅读偏好比较杂，大部分可以分为人文社科和自然科学两类，两样自然也不是非常精通但相关的话题都能够参与进来交流  
+
+***
+
 ## **前面的区域，以后再来探索吧**
