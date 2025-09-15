@@ -56,8 +56,23 @@ weight: 1     # You can add weight to some posts to override the default sorting
 ## **Stont**
 <span style="font-size:0.75em !important; color:gray !important">这个人没有中文昵称...</span>  
 这里是Stont[斯通特]，观影人一个，影评话不多，文笔算出色~  
+
 被JLS召唤而来的网络游民，比较享受写作的过程并从中提炼自己的观点（停停写写又一篇呐）  
+
 爱好不算广泛，无聊的时候喜欢在b站看一些低脂影视cut视频，战争雷霆糕手，少前玩家，VV表情包爱好者，阅读偏好比较杂，大部分可以分为人文社科和自然科学两类，两样自然也不是非常精通但相关的话题都能够参与进来交流  
+
+***
+
+## 刻
+
+<span style="font-size:0.75em !important; color:gray !important">IDK but 我觉得这里应该写点什么 -- 刻留</span>  
+受 Har 召唤而来，突然就是很喜欢看电影，所以就看！
+
+其实有很多马甲：AMoment，刻刻，F()<span style="font-size:0.75em">（意为废话函数）</span>，Call me whatever you like!
+
+爱好数学、程序、特点是不务正业：只要不是正经活儿，都喜欢搞搞。喜欢写博文，讨厌写论文。自我感觉什么都会一点，但是没一样是精通的。
+
+偶尔帮 Har 装修这个小站，有需求可以和我提~
 
 ***
 
