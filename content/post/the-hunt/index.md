@@ -17,20 +17,18 @@ tags:
 导演：托马斯·温特贝尔  
 评价者：JLS，哈，曼森  
 
-***
-
 ## **故事背景**  
 
 该片讲述了一个在丹麦小镇上发生的一起由小女孩<span style="font-size:0.75em !important">（幼儿园小孩）</span>因爱生恨对男主<span style="font-size:0.75em !important">（幼师）</span>求而不得而对男主进行了污蔑她受到了男主的性侵。由此展开了男主因莫须有的罪名而在小镇中所遭遇的种种歧视和偏见。  
 <span style="font-size:0.75em !important; color:gray !important;">（后端苦工哈：本人不对该陈述负任何责任）</span>  
+
 ***
+
 ## **鸡评**
 **6.5-7/10**  
 
 本片的核心主题聚焦于社会议题和孩童教育，当然也有如果联系2025年的一些热点事件关于污蔑造谣的事件讨论。  
 <span style="font-size:0.75em !important; color:gray !important;">（后端苦工哈：请谅解，JLS还在啄米）</span>   
-
-***  
 
 ## **Har评**
 
