@@ -1,6 +1,6 @@
 ---
 title: 大阅兵
-description:
+description: 人文军事
 date: 2025-09-07
 slug: "the-big-parade"
 image: cover.png
@@ -12,7 +12,7 @@ tags:
     # - 艺术
     # - 悬疑
     # - 剧情
-    # - 人文
+    - 人文
     - 军事
 ---
 # 大阅兵，1986（中国）
