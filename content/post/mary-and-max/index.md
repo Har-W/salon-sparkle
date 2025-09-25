@@ -2,7 +2,7 @@
 title: 玛丽和马克思
 description: 定格动画
 date: 2025-09-24T10:04:55+08:00
-slug: "Merry and Max"
+slug: "Mary and Max"
 image: cover.jpg
 hidden: false
 categories:
@@ -36,11 +36,11 @@ tags:
 
 ## Har评（7.5/10）
 
-你为什么还活着？——因为我还没死。
+<span style="font-size:0.75em !important;">你为什么还活着？——因为我还没死。</span>  
 
 黏土动画的质感厚重，也可传达沉闷，黑白灰棕的颜色压抑。
 
-影片中为数不多的红则传达了Max和Mary单调生活的色彩，二人因书信而结实，往来之间连结羁绊，虽相隔甚远但也切实成为了互相活着的意义。
+影片中为数不多的红则传达了Max和Mary单调生活的色彩，二人因书信而结识，往来之间连结羁绊，虽相隔甚远但也切实成为了互相活着的意义。
 
 对于Max来说，Mary是他活着的动力，是他曾活过的证明。
 
