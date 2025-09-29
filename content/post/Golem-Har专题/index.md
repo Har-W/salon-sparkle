@@ -4,6 +4,7 @@ description: 专题壹-假人篇
 date: 2025-09-27T10:04:55+08:00
 slug: "harfocus-golem"
 image: cover.jpg
+imagePosition: top
 hidden: false
 categories:
     - 哈维茶馆

@@ -4,6 +4,7 @@ description: 人文
 date: 2025-09-15T09:56:36+08:00
 slug: moscow-does-not-believe-in-tears
 image: cover.png
+imageObjectPosition: center 25%
 categories:
     - 影评
 tags:
