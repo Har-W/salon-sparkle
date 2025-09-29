@@ -4,6 +4,7 @@ description: 定格动画
 date: 2025-09-24T10:04:55+08:00
 slug: "Mary and Max"
 image: cover.jpg
+imageObjectPosition: center 25%
 hidden: false
 categories:
     - 影评
