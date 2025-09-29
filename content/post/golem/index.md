@@ -4,6 +4,7 @@ description: 科幻
 date: 2025-09-28T15:59:42+08:00
 slug: "Golem"
 image: cover.jpg
+imageObjectPosition: "center 65%"
 hidden: false
 categories:
     - 影评
